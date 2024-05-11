@@ -19,7 +19,7 @@ jobs:
     runs-on: ubuntu-latest
   
     steps:
-      - uses: actions/setup-ruby@v1
+      - uses: actions/setup-ruby@v4
         with:
           # ruby-version: '2.6.x'
           ruby-version: '3.3'
