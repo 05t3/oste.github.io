@@ -62,3 +62,12 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: latest
+
+      # Runs Publish & Lastmod script
+      - name: Publish script
+        run: |
+          bash tools/publish.sh
+          
+      - name: Lastmod script
+        run: |
+          bash _scripts/sh/dump_lastmod.sh    
