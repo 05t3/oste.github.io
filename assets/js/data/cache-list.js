@@ -70,6 +70,7 @@ const include = [
 
   /*--- Icons ---*/
 
+  
   {%- capture icon_url -%}
     {{ "/assets/img/favicons" | relative_url }}
   {%- endcapture -%}
