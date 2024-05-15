@@ -7,13 +7,13 @@ title: Welcome to Oste's Realm of Knowledge
 # MIT License
 ---
 
-<img align="center" alt="Stephen Kageche" img src="../../assets/img/Posts/banner.png">
+<!-- <img align="center" alt="Stephen Kageche" img src="../../assets/img/Posts/banner.png">
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> my name is 05t3 and i'm happy You are here😁
 
 You are visitor number <img src="https://profile-counter.glitch.me/05t3/count.svg" />
 
-<hr>
+<hr> -->
 
 <!-- <a href="https://twitter.com/oste_ke">
   <img align="left" alt="Stephen Kageche | Twitter" width="22px" src="../../assets/img/Posts/resources/twitter.svg" />
@@ -52,7 +52,11 @@ You are visitor number <img src="https://profile-counter.glitch.me/05t3/count.sv
 
 <img align="right" alt="GIF" src="../../assets/img/Posts/resources/code.gif" width="375" height="240" />
 
-Red teaming at night and Blue teaming by day.😅 I am a SOC Analyst & Self-taught Forensic Investigator with keen interest in Disk, Memory, Network and Email forensics.During my free time, i enjoy messing around with my homelab, Containerisation technology (Docker), reading technical blogs, bug reports and current affairs. I enjoy playing CTF's with the [fr334aks-Mini](https://twitter.com/fr334aksmini) team where i majorly focus on Forensic challenges.
+Hello World !
+
+This section is work in progress and once complete, will be updated soon.
+
+<!-- Red teaming at night and Blue teaming by day.😅 I am a SOC Analyst & Self-taught Forensic Investigator with keen interest in Disk, Memory, Network and Email forensics.During my free time, i enjoy messing around with my homelab, Containerisation technology (Docker), reading technical blogs, bug reports and current affairs. I enjoy playing CTF's with the [fr334aks-Mini](https://twitter.com/fr334aksmini) team where i majorly focus on Forensic challenges.
 <br>
 
 As part of my Job (detecting an catching the bad guys), i contribute to the AbuseIPDB Comunity by reporting sus IP's picked up.
@@ -63,11 +67,11 @@ As part of my Job (detecting an catching the bad guys), i contribute to the Abus
  
 <br>
 
-<hr>
+<hr> -->
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=05t3&show_icons=true&theme=radical" alt="05t3" />
+<!-- <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=05t3&show_icons=true&theme=radical" alt="05t3" />
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=05t3&layout=compact&theme=radical" alt="05t3" />  
-  
+   -->
 <hr>
 
 <!-- # Operating Systems & Virtualisation Software Familiar with
@@ -136,13 +140,13 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 -->
 
-A little about myself:
+<!-- A little about myself:
 
 - 🐳 I’m currently working on Docker and Docker Security
 - 🐞 I’m currently learning Malware Analysis, Active Directory, DevOps & Automation
 - 🤔 I’m looking for help with DFIR resources
 - 📫 How to reach me: Twitter, LinkedIn
 - 🙎🏾‍♂️ Pronouns: He/Him
-- ❤ I love: Rock/Jazz/LoFi/Afrobeats/ , Adventure, Anime and networking
+- ❤ I love: Rock/Jazz/LoFi/Afrobeats/ , Adventure, Anime and networking -->
 
 <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="oste" data-description="Support me on Buy me a coffee!" data-message="" data-color="#FF5F5F" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
