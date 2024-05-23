@@ -50,13 +50,31 @@ You are visitor number <img src="https://profile-counter.glitch.me/05t3/count.sv
 <div>Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 -->
 
-<!-- <img align="right" alt="GIF" src="../../assets/img/Posts/resources/code.gif" width="375" height="240" /> -->
+<img align="right" alt="GIF" src="../../assets/img/Posts/resources/code.gif" width="375" height="240" />
 
 Hello World !
 
-![GIF](../../assets/img/Posts/resources/code.gif)
+<!-- ![GIF](../../assets/img/Posts/resources/code.gif) -->
 
-This section is work in progress and once complete, will be updated soon.
+Hi there and welcome to my realm of knowledge. I'm Oste, a Security Analyst. I like to share the little I know with the community through my blog post where I delve into the intricacies of:
+  - CTFs.
+  - Hacking Vulnerable Machines.
+  - Investigating & Analyzing incidences/malware.
+  - Solving Digital Forensics cases and challenges.
+  - Helpful Windows & Linux tips and tricks.
+  - Building Home labs.
+  - Offensive security tools
+  - Physical security tools and so much more.
+
+I'm currently a Pentester whose had their fair share of working as a SOC analyst. I also do freelance Digital Forensic and Incident Response gigs. 😎 
+
+I'm also an active CTF player, playing with the fr334aks team.  From time to time, I also play with the fr334aks-mini, p3rf3ctr00t, Seekers teams. 😅 (Most team mates are working professionals and availability could be tricky sometime, hence why I play with different teams.) ✌
+
+I create CTF challenges for the CTFROOM platform from time to time. I've also created challenges for multiple CTF's in the past like:
+
+  - BsidesNairobi#2022
+  - BsidesNairobi#2023
+
 
 
 <h3 align="left">Operating Systems:</h3>
