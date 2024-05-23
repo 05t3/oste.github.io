@@ -56,6 +56,13 @@ Hello World !
 
 This section is work in progress and once complete, will be updated soon.
 
+
+<h3 align="left">Automation, DevOps Tools:</h3>
+<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="../assets/img/About/docker.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.portainer.io/" target="_blank" rel="noreferrer"> <img src="../assets/img/About/portainer.svg" alt="portainer" width="40" height="40"/> </a> <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="../assets/img/About/kubernetes.png" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="../assets/img/About/ansible.svg" alt="ansible" width="40" height="40"/> </a> <a href="https://www.semui.co/" target="_blank" rel="noreferrer"> <img src="../assets/img/About/semaphore.png" alt="semaphore" width="40" height="40"/> </a> <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="../assets/img/About/github.png" alt="github" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="../assets/img/About/git.png" alt="git" width="40" height="40"/> </a> <a href="https://about.gitea.com/" target="_blank" rel="noreferrer"> <img src="../assets/img/About/gitea.png" alt="gitea" width="40" height="40"/> </a> <a href="https://kestra.io/" target="_blank" rel="noreferrer"> <img src="../assets/img/About/kestra.svg" alt="kestra" width="40" height="40"/> </a> <a href="https://www.packer.io/" target="_blank" rel="noreferrer"> <img src="../assets/img/About/packer.svg" alt="packer" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="../assets/img/About/vagrant.png" alt="vagrant" width="40" height="40"/> </a> <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="../assets/img/About/teraform.png" alt="teraform" width="40" height="40"/> </a> </p>
+
+
+
+
 <!-- Red teaming at night and Blue teaming by day.😅 I am a SOC Analyst & Self-taught Forensic Investigator with keen interest in Disk, Memory, Network and Email forensics.During my free time, i enjoy messing around with my homelab, Containerisation technology (Docker), reading technical blogs, bug reports and current affairs. I enjoy playing CTF's with the [fr334aks-Mini](https://twitter.com/fr334aksmini) team where i majorly focus on Forensic challenges.
 <br>
 
