@@ -52,7 +52,7 @@ You are visitor number <img src="https://profile-counter.glitch.me/05t3/count.sv
 
 <img align="right" alt="GIF" src="../../assets/img/Posts/resources/code.gif" width="375" height="240" />
 
-Hello World !
+Hello World ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 
 <!-- ![GIF](../../assets/img/Posts/resources/code.gif) -->
 
@@ -73,7 +73,7 @@ I'm an active CTF player (4 years now 🙈), playing with the [fr334aks](https:/
 # Technical shenanigans
 
 <h3 align="left">I'm proficient operating:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer"> <img src="../../assets/img/About/windows.png" alt="windows" width="40" height="40"/> </a> <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="../../assets/img/About/ubuntu.png" alt="ubuntu" width="40" height="40"/> </a> <a href="https://www.centos.org/" target="_blank" rel="noreferrer"> <img src="../../assets/img/About/centos.png" alt="centos" width="40" height="40"/> </a> <a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <img src="../../assets/img/About/arch.png" alt="arch" width="40" height="40"/> </a> <a href="https://www.debian.org/" target="_blank" rel="noreferrer"> <img src="../../assets/img/About/debian.png" alt="debian" width="40" height="40"/></a> </a> <a href="https://www.microsoft.com/en-us/windows-server" target="_blank" rel="noreferrer"> <img src="../../assets/img/About/windowsserver.png" alt="windowsserver" width="40" height="40"/></a></p>
+<p align="left"> <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer"> <img src="../../assets/img/About/windows.png" alt="windows" width="40" height="40"/> </a> <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="../../assets/img/About/ubuntu.png" alt="ubuntu" width="40" height="40"/> </a> <a href="https://www.centos.org/" target="_blank" rel="noreferrer"> <img src="../../assets/img/About/centos.png" alt="centos" width="40" height="40"/> </a> <a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <img src="../../assets/img/About/arch.png" alt="arch" width="40" height="40"/> </a> <a href="https://www.debian.org/" target="_blank" rel="noreferrer"> <img src="../../assets/img/About/debian.png" alt="debian" width="40" height="40"/></a> <a href="https://www.microsoft.com/en-us/windows-server" target="_blank" rel="noreferrer"> <img src="../../assets/img/About/windowsserver.png" alt="windowsserver" width="40" height="40"/></a></p>
 
 
 <h3 align="left">I virtualize on:</h3>
